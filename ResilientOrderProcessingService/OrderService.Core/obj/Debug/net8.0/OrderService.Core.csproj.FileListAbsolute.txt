@@ -1,0 +1,15 @@
+C:\Users\soreilly\source\repos\ResilientOrderProcessingService\ResilientOrderProcessingService\OrderService.Core\bin\Debug\net8.0\OrderService.Core.deps.json
+C:\Users\soreilly\source\repos\ResilientOrderProcessingService\ResilientOrderProcessingService\OrderService.Core\bin\Debug\net8.0\OrderService.Core.runtimeconfig.json
+C:\Users\soreilly\source\repos\ResilientOrderProcessingService\ResilientOrderProcessingService\OrderService.Core\bin\Debug\net8.0\OrderService.Core.dll
+C:\Users\soreilly\source\repos\ResilientOrderProcessingService\ResilientOrderProcessingService\OrderService.Core\bin\Debug\net8.0\OrderService.Core.pdb
+C:\Users\soreilly\source\repos\ResilientOrderProcessingService\ResilientOrderProcessingService\OrderService.Core\obj\Debug\net8.0\OrderService.Core.csproj.AssemblyReference.cache
+C:\Users\soreilly\source\repos\ResilientOrderProcessingService\ResilientOrderProcessingService\OrderService.Core\obj\Debug\net8.0\OrderService.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soreilly\source\repos\ResilientOrderProcessingService\ResilientOrderProcessingService\OrderService.Core\obj\Debug\net8.0\OrderService.Core.AssemblyInfoInputs.cache
+C:\Users\soreilly\source\repos\ResilientOrderProcessingService\ResilientOrderProcessingService\OrderService.Core\obj\Debug\net8.0\OrderService.Core.AssemblyInfo.cs
+C:\Users\soreilly\source\repos\ResilientOrderProcessingService\ResilientOrderProcessingService\OrderService.Core\obj\Debug\net8.0\OrderService.Core.csproj.CoreCompileInputs.cache
+C:\Users\soreilly\source\repos\ResilientOrderProcessingService\ResilientOrderProcessingService\OrderService.Core\obj\Debug\net8.0\OrderService.Core.sourcelink.json
+C:\Users\soreilly\source\repos\ResilientOrderProcessingService\ResilientOrderProcessingService\OrderService.Core\obj\Debug\net8.0\OrderService.Core.dll
+C:\Users\soreilly\source\repos\ResilientOrderProcessingService\ResilientOrderProcessingService\OrderService.Core\obj\Debug\net8.0\refint\OrderService.Core.dll
+C:\Users\soreilly\source\repos\ResilientOrderProcessingService\ResilientOrderProcessingService\OrderService.Core\obj\Debug\net8.0\OrderService.Core.pdb
+C:\Users\soreilly\source\repos\ResilientOrderProcessingService\ResilientOrderProcessingService\OrderService.Core\obj\Debug\net8.0\OrderService.Core.genruntimeconfig.cache
+C:\Users\soreilly\source\repos\ResilientOrderProcessingService\ResilientOrderProcessingService\OrderService.Core\obj\Debug\net8.0\ref\OrderService.Core.dll
